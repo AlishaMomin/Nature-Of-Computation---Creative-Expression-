@@ -12,9 +12,9 @@ Our CE research focuses on four subtopics, with the primary purpose of demonstra
     3.	Why is there no algorithm to solve NP problems in polynomial time? Would we ever be able to find such an algorithm?
     4.	Why NP Problem in polynomial time is too complex to be solved?
 ## Reference:
-    1.  Book: The Emperors New Mind: Concerning Computers, Minds, and the Laws of Physics - Roger Penrose.
-    2.  Topic: TRUTH, PROOF, AND INSIGHT.
-    3.  Page Number: 54-79.
+    1.	Book: The Emperors New Mind: Concerning Computers, Minds, and the Laws of Physics - Roger Penrose.
+    2.	Topic: TRUTH, PROOF, AND INSIGHT.
+    3.	Page Number: 54-79.
 ## YouTube Link: 
 Click the image to view our project videos.
 [![menu](https://user-images.githubusercontent.com/60126292/144741810-46f415ff-367d-4eb1-a2bf-6101b03fff5a.PNG)](https://youtube.com/playlist?list=PLeLddCm4AohW_LSwKBrvC2SHRiYOdDyhh)
