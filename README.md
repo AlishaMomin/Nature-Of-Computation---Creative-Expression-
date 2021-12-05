@@ -13,4 +13,6 @@ Our CE research focuses on four subtopics, with the primary purpose of demonstra
     4.	Why NP Problem in polynomial time is too complex to be solved?
 ## YouTube Link: 
 Click the image to view our project videos 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/v=XHNdxUnhpi4E/0.jpg)](https://youtube.com/playlist?list=PLeLddCm4AohW_LSwKBrvC2SHRiYOdDyhh "Video Title")
+
 [![menu](https://user-images.githubusercontent.com/v=XHNdxUnhpi4.png)](https://youtube.com/playlist?list=PLeLddCm4AohW_LSwKBrvC2SHRiYOdDyhh)
